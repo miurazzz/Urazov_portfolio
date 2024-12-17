@@ -1,5 +1,5 @@
 function openPageAboutMe() {
-    location.replace("About me.html");
+    location.replace("index.html");
 }
 
 function openPageWork() {
